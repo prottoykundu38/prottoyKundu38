@@ -11,8 +11,11 @@ I love exploring new ideas, learning new technologies, and improving my skills e
 💬 I'm proficient in **C, C++, Dart, Flutter, OOP, DSA**  
 📫 How to reach me: **turjakundu2016@gmail.com**  
 
-Connect with me:  
-[LinkedIn/GitHub Handle]  
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prottoy38/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prottoykundu38)
+
 
 ### Languages and Tools
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
