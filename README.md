@@ -9,7 +9,7 @@ I love exploring new ideas, learning new technologies, and improving my skills e
 
 🌱 I’m currently learning **Flutter**  
 💬 I'm proficient in **C, C++, Dart, Flutter, OOP, DSA**  
-📫 How to reach me: **prottoykundu38@gmail.com**  
+📫 How to reach me: **turjakundu2016@gmail.com**  
 
 Connect with me:  
 [LinkedIn/GitHub Handle]  
